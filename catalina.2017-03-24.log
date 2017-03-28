@@ -1,0 +1,72 @@
+24-Mar-2017 00:00:22.423 WARNING [http-nio-8080-exec-6] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 00:00:22.427 WARNING [http-nio-8080-exec-6] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 00:38:43.109 WARNING [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn Could not find action or result: /jmx-console/
+ There is no Action mapped for namespace [/] and action name [jmx-console/] associated with context path []. - [unknown location]
+	at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:185)
+	at org.apache.struts2.impl.StrutsActionProxy.prepare(StrutsActionProxy.java:63)
+	at org.apache.struts2.impl.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:37)
+	at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:58)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:552)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:99)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:616)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:522)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1095)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:672)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1504)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1460)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+
+24-Mar-2017 01:06:31.447 WARNING [http-nio-8080-exec-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 01:06:31.450 WARNING [http-nio-8080-exec-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 02:10:14.625 WARNING [http-nio-8080-exec-4] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 02:10:14.626 WARNING [http-nio-8080-exec-4] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 02:25:57.673 WARNING [http-nio-8080-exec-6] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 02:25:57.676 WARNING [http-nio-8080-exec-6] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 03:12:36.416 WARNING [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 03:12:36.417 WARNING [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 03:27:44.748 WARNING [http-nio-8080-exec-9] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 03:27:44.749 WARNING [http-nio-8080-exec-9] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 03:41:45.763 WARNING [http-nio-8080-exec-2] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 03:41:45.767 WARNING [http-nio-8080-exec-2] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 03:43:17.797 WARNING [http-nio-8080-exec-7] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 03:43:17.798 WARNING [http-nio-8080-exec-7] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 04:59:16.037 WARNING [http-nio-8080-exec-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 04:59:16.040 WARNING [http-nio-8080-exec-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 05:21:19.975 WARNING [http-nio-8080-exec-4] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 05:21:19.976 WARNING [http-nio-8080-exec-4] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 05:44:13.319 WARNING [http-nio-8080-exec-6] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 05:44:13.320 WARNING [http-nio-8080-exec-6] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 08:20:18.775 WARNING [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 08:20:18.778 WARNING [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 08:20:55.126 WARNING [http-nio-8080-exec-9] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 08:20:55.127 WARNING [http-nio-8080-exec-9] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 08:27:13.276 WARNING [http-nio-8080-exec-4] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 08:27:13.277 WARNING [http-nio-8080-exec-4] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 08:27:30.193 WARNING [http-nio-8080-exec-6] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 08:27:30.194 WARNING [http-nio-8080-exec-6] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 08:58:06.812 WARNING [http-nio-8080-exec-7] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 08:58:06.816 WARNING [http-nio-8080-exec-7] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 09:16:43.780 WARNING [http-nio-8080-exec-9] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 09:16:43.781 WARNING [http-nio-8080-exec-9] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 09:24:22.947 WARNING [http-nio-8080-exec-2] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 09:24:22.948 WARNING [http-nio-8080-exec-2] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 09:39:40.584 WARNING [http-nio-8080-exec-7] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 09:39:40.585 WARNING [http-nio-8080-exec-7] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 10:01:24.798 WARNING [http-nio-8080-exec-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 10:01:24.801 WARNING [http-nio-8080-exec-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 10:01:57.254 WARNING [http-nio-8080-exec-9] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 10:01:57.255 WARNING [http-nio-8080-exec-9] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 10:22:07.746 WARNING [http-nio-8080-exec-9] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+24-Mar-2017 10:22:07.747 WARNING [http-nio-8080-exec-9] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.warn No configuration found for the specified action: 'login' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
